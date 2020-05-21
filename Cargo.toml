@@ -1,0 +1,14 @@
+[package]
+name = "checkmail-rs"
+version = "0.1.0"
+authors = ["dyoshikawa <dyoshikawa@gmail.com>"]
+edition = "2018"
+keywords = ["mail", "email", "validate", "validation", "validator"]
+description = "Rust package for email validation inspired by https://github.com/badoux/checkmail"
+license="MIT"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+thiserror = "1.0"
+regex = "1"
