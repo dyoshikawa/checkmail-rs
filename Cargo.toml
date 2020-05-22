@@ -5,7 +5,8 @@ authors = ["dyoshikawa <dyoshikawa@gmail.com>"]
 edition = "2018"
 keywords = ["mail", "email", "validate", "validation", "validator"]
 description = "Rust package for email validation inspired by https://github.com/badoux/checkmail"
-license="MIT"
+license = "MIT"
+repository = "https://github.com/dyoshikawa/checkmail-rs"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
